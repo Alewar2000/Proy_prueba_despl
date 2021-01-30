@@ -13,7 +13,7 @@ and open the template in the editor.
         <?php
         echo 'Proyecto de prueba para la practica de despliegue';
         echo 'Cambio en el proyecto';
-        
+        echo 'Cambio hecho con GitHub';
         ?>
     </body>
 </html>
